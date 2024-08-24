@@ -1,2 +1,6 @@
 # Transformer_Sentiment_analysis
-Build RoBERTa transformer model on sentiment analysis. Also make a pipeline for easy and quick predictions.
+Build RoBERTa pretrained transformer model on sentiment analysis. Also make a pipeline for easy and quick predictions.
+
+Also performed visualizations for easy understanding of data. Used NLTK to tokenize the data here I have used VADER library because it is trained on social media data which gives good results over other libraries.
+
+Implemented transformer pipeline for easy and quick predictions.
